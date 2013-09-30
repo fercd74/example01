@@ -1,0 +1,2 @@
+serviceClass: com.fcd.mywebapp.client.GreetingService
+path: C165FE7472104AB30994978ED3E61458.gwt.rpc
